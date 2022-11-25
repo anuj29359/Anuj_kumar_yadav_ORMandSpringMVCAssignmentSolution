@@ -1,0 +1,97 @@
+LIB:
+
+
+
+
+02-10-2022  00:50    <DIR>          .
+02-10-2022  00:50    <DIR>          ..
+17-09-2022  15:40           445,288 antlr-2.7.7.jar
+17-09-2022  15:40         3,690,916 byte-buddy-1.11.20.jar
+16-09-2022  20:31            65,100 classmate-1.3.4.jar
+17-09-2022  15:40            67,815 classmate-1.5.1.jar
+16-09-2022  20:31            61,829 commons-logging-1.2.jar
+17-09-2022  15:40           311,876 FastInfoset-1.2.15.jar
+17-09-2022  15:40            78,948 hibernate-commons-annotations-5.1.2.Final.ja
+r
+17-09-2022  15:40         7,485,792 hibernate-core-5.6.3.Final.jar
+16-09-2022  20:31         1,275,195 hibernate-validator-6.1.0.Final.jar
+16-09-2022  20:31           136,419 hibernate-validator-annotation-processor-6.1
+.0.Final.jar
+16-09-2022  20:31            40,454 hibernate-validator-cdi-6.1.0.Final.jar     
+17-09-2022  15:40            25,523 istack-commons-runtime-3.0.7.jar
+16-09-2022  20:31           237,826 jakarta.el-3.0.3.jar
+16-09-2022  20:31           164,392 jakarta.persistence-api-2.2.3.jar
+16-09-2022  20:31            91,930 jakarta.validation-api-2.0.2.jar
+17-09-2022  15:40           202,552 jandex-2.2.3.Final.jar
+17-09-2022  15:40            56,674 javax.activation-api-1.2.0.jar
+16-09-2022  20:31            26,366 javax.annotation-api-1.2.jar
+17-09-2022  15:40           164,556 javax.persistence-api-2.2.jar
+16-09-2022  20:31           407,178 javax.servlet.jsp.jstl-1.2.1.jar
+16-09-2022  20:31            32,522 javax.servlet.jsp.jstl-api-1.2.1.jar        
+17-09-2022  15:40           128,076 jaxb-api-2.3.1.jar
+17-09-2022  15:40         1,093,432 jaxb-runtime-2.3.1.jar
+16-09-2022  20:31            66,469 jboss-logging-3.3.2.Final.jar
+17-09-2022  15:40            60,911 jboss-logging-3.4.2.Final.jar
+17-09-2022  15:40            26,290 jboss-transaction-api_1.2_spec-1.1.1.Final.j
+ar
+16-09-2022  20:31           633,290 joda-time-2.9.7.jar
+16-09-2022  20:31           315,320 jsoup-1.8.3.jar
+16-09-2022  20:31           489,884 log4j-1.2.17.jar
+17-09-2022  15:34         2,293,144 mysql-connector-java-8.0.16.jar
+16-09-2022  20:31            34,654 paranamer-2.8.jar
+16-09-2022  20:31         1,240,316 spring-aop-5.0.2.RELEASE-javadoc.jar        
+16-09-2022  20:31           358,358 spring-aop-5.0.2.RELEASE-sources.jar        
+16-09-2022  20:31           360,614 spring-aop-5.0.2.RELEASE.jar
+16-09-2022  20:31            73,563 spring-aspects-5.0.2.RELEASE-javadoc.jar    
+16-09-2022  20:31            29,859 spring-aspects-5.0.2.RELEASE-sources.jar    
+16-09-2022  20:31            41,127 spring-aspects-5.0.2.RELEASE.jar
+16-09-2022  20:31         1,961,580 spring-beans-5.0.2.RELEASE-javadoc.jar      
+16-09-2022  20:31           625,257 spring-beans-5.0.2.RELEASE-sources.jar      
+16-09-2022  20:31           655,244 spring-beans-5.0.2.RELEASE.jar
+16-09-2022  20:31         3,481,274 spring-context-5.0.2.RELEASE-javadoc.jar    
+16-09-2022  20:31         1,036,238 spring-context-5.0.2.RELEASE-sources.jar    
+16-09-2022  20:31         1,075,127 spring-context-5.0.2.RELEASE.jar
+16-09-2022  20:31            24,283 spring-context-indexer-5.0.2.RELEASE-javadoc
+.jar
+16-09-2022  20:31            13,935 spring-context-indexer-5.0.2.RELEASE-sources
+.jar
+16-09-2022  20:31            17,737 spring-context-indexer-5.0.2.RELEASE.jar    
+16-09-2022  20:31           523,626 spring-context-support-5.0.2.RELEASE-javadoc
+.jar
+16-09-2022  20:31           167,519 spring-context-support-5.0.2.RELEASE-sources
+.jar
+16-09-2022  20:31           171,897 spring-context-support-5.0.2.RELEASE.jar    
+16-09-2022  20:31         2,185,545 spring-core-5.0.2.RELEASE-javadoc.jar       
+16-09-2022  20:31           797,655 spring-core-5.0.2.RELEASE-sources.jar       
+16-09-2022  20:31         1,212,208 spring-core-5.0.2.RELEASE.jar
+16-09-2022  20:31           748,503 spring-expression-5.0.2.RELEASE-javadoc.jar 
+16-09-2022  20:31           208,226 spring-expression-5.0.2.RELEASE-sources.jar 
+16-09-2022  20:31           262,982 spring-expression-5.0.2.RELEASE.jar
+16-09-2022  20:31            23,422 spring-instrument-5.0.2.RELEASE-javadoc.jar 
+16-09-2022  20:31           368,306 spring-messaging-5.0.2.RELEASE.jarurces.jar 
+16-09-2022  20:31           465,954 spring-orm-5.0.2.RELEASE-javadoc.jar        
+16-09-2022  20:31           170,056 spring-orm-5.0.2.RELEASE-sources.jar        
+16-09-2022  20:31           185,484 spring-orm-5.0.2.RELEASE.jarrces.jar        
+16-09-2022  20:31           212,282 spring-oxm-5.0.2.RELEASE-javadoc.jar        
+16-09-2022  20:31            58,836 spring-oxm-5.0.2.RELEASE-sources.jar        
+16-09-2022  20:31            66,841 spring-oxm-5.0.2.RELEASE.jarurces.jar       
+16-09-2022  20:31         1,751,864 spring-test-5.0.2.RELEASE-javadoc.jar       
+16-09-2022  20:31           503,060 spring-test-5.0.2.RELEASE-sources.jar       
+16-09-2022  20:31           587,792 spring-test-5.0.2.RELEASE.jarces.jar        
+16-09-2022  20:31         1,118,191 spring-tx-5.0.2.RELEASE-javadoc.jar
+16-09-2022  20:31           292,956 spring-tx-5.0.2.RELEASE-sources.jardoc.jar  
+16-09-2022  20:31           249,221 spring-tx-5.0.2.RELEASE.jarASE-sources.jar  
+16-09-2022  20:31         3,548,055 spring-web-5.0.2.RELEASE-javadoc.jar        
+16-09-2022  20:31         1,039,932 spring-web-5.0.2.RELEASE-sources.jar        
+16-09-2022  20:31         1,235,150 spring-web-5.0.2.RELEASE.jar
+16-09-2022  20:31         1,517,944 spring-webflux-5.0.2.RELEASE-javadoc.jar    
+16-09-2022  20:31           426,334 spring-webflux-5.0.2.RELEASE-sources.jar    
+16-09-2022  20:31           660,389 spring-webflux-5.0.2.RELEASE.jar
+16-09-2022  20:31         2,301,250 spring-webmvc-5.0.2.RELEASE-javadoc.jar     
+16-09-2022  20:31           725,902 spring-webmvc-5.0.2.RELEASE-sources.jar     
+16-09-2022  20:31           782,647 spring-webmvc-5.0.2.RELEASE.jar
+16-09-2022  20:31         1,111,629 spring-websocket-5.0.2.RELEASE-javadoc.jar  
+16-09-2022  20:31           301,665 spring-websocket-5.0.2.RELEASE-sources.jar  
+16-09-2022  20:31           413,160 spring-websocket-5.0.2.RELEASE.jar
+17-09-2022  15:40            36,073 stax-ex-1.8.jar
+17-09-2022  15:40            70,288 txw2-2.3.1.jar
